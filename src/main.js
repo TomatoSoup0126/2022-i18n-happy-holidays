@@ -53,6 +53,19 @@ const i18n = createI18n({
         weekday: 'long',
       },
     },
+    'zh-TW': {
+      short: {
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric',
+      },
+      long: {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric',
+        weekday: 'long',
+      },
+    },
   },
 })
 
